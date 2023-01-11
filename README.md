@@ -31,15 +31,11 @@
 
 ### Tech Stack <a name="tech-stack"></a>
 
-
-<details>
-  <summary>Client</summary>
-  <ul>
-    <li><a href="https://reactjs.org/">React.js</a></li>
-    <li><a href="">CSS</a></li>
-    <li><a href="">JSX</a></li>
-  </ul>
-</details>
+```sh
+  React
+  CSS
+  JSX
+```
 
 
 ### Key Features <a name="key-features"></a>
