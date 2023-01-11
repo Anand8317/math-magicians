@@ -33,6 +33,10 @@ button {
   height: 40px;
 }
 
+button:hover {
+  background-color: #858693;
+}
+
 #zero {
   width: 50%;
 }
