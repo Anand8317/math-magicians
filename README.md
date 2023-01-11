@@ -1,102 +1,145 @@
-
-# Math Magicians
-
 <a name="readme-top"></a>
-
-
-
-<div align="center">
-
-  <img src="src/images/murple_logo.png" alt="logo" width="140"  height="auto" />
-  <br/>
-
-
-</div>
-
-<!-- TABLE OF CONTENTS -->
 
 # 📗 Table of Contents
 
-- [📗 Table of Contents](#-table-of-contents)
-- [📖 Project: Math Magicians ](#-math-magicians-)
-  - [🛠 Built With ](#-built-with-)
-  - [🚀 Live Demo ](#-live-demo-)
-  - [💻 Getting Started ](#-getting-started-)
-    - [Prerequisites](#prerequisites)
-    - [Setup](#setup)
-  - [🔭 Future Features ](#-future-features-)
-  - [🤝 Contributing ](#-contributing-)
-  - [⭐️ Show your support ](#️-show-your-support-)
-  - [🙏 Acknowledgments ](#-acknowledgments-)
+- [📖 About the Project](#about-project)
+  - [🛠 Built With](#built-with)
+    - [Tech Stack](#tech-stack)
+    - [Key Features](#key-features)
+  - [🚀 Live Demo](#live-demo)
+- [💻 Getting Started](#getting-started)
+  - [Setup](#setup)
+  - [Prerequisites](#prerequisites)
+  - [Install](#install)
+  - [Usage](#usage)
+  - [Run tests](#run-tests)
+  - [Deployment](#triangular_flag_on_post-deployment)
+- [👥 Authors](#authors)
+- [🔭 Future Features](#future-features)
+- [🤝 Contributing](#contributing)
+- [⭐️ Show your support](#support)
+- [🙏 Acknowledgements](#acknowledgements)
+- [❓ FAQ (OPTIONAL)](#faq)
+- [📝 License](#license)
 
-<!-- PROJECT DESCRIPTION -->
 
-# 📖 Projetc: Math Magicians <a name="about-project"></a>
+# 📖 [Math Magicians] <a name="about-project"></a>
 
-**Math Magicians** is the minimalist calculator app.
+**[Math Magicians]** is a minimalist calculator app.
 
 ## 🛠 Built With <a name="built-with"></a>
-    JSX
-    CSS
-    React
 
+### Tech Stack <a name="tech-stack"></a>
+
+```sh
+  React
+  CSS
+  JSX
+```
+
+
+### Key Features <a name="key-features"></a>
+
+
+- **[Coming Soon]**
+- **[Coming Soon]**
+- **[Coming Soon]**
+
+<p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 ## 🚀 Live Demo <a name="live-demo"></a>
 
-Coming soon
+- [Coming Soon]()
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 
 ## 💻 Getting Started <a name="getting-started"></a>
 
-- Run this command: git clone https://github.com/Anand8317/math-magicians.git
-
-- Download the depedencies (node_modules)
-
-- Run this command: npm start
-
-
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 ### Prerequisites
 
 In order to run this project you need:
 
--Modern browsers with support of HTML5
-
-
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
+Node Js installed
 
 ### Setup
 
-Steps to clone the repository
+Clone this repository to your desired folder:
 
-- Open the command prompt.
+```sh
+  cd my-folder
+  git clone https://github.com/Anand8317/math-magicians.git
+```
 
-- Run this command: git clone https://github.com/Anand8317/math-magicians.git
+### Install
 
+Install this project with:
+
+```sh
+  cd my-project
+  npm install
+```
+
+### Usage
+
+To run the project, execute the following command:
+
+```sh
+  npm start
+```
+
+### Run tests
+
+To run linter tests, run the following command:
+
+>Eslint
+
+```sh
+  npx eslint .
+```
+
+>Stylelint
+
+```sh
+  npx stylelint "**/*.{css,scss}"
+```
+
+### Deployment
+
+You can deploy this project using:
+
+
+```sh
+  On github pages, with public as a root foler
+```
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
-<!-- Author -->
+<!-- AUTHORS -->
+
+## 👥 Authors <a name="authors"></a>
 
 👤 **Author1**
 
-- GitHub: [@Anand8317](https://github.com/Anand8317)
-- Twitter: [@Anand029](https://twitter.com/anand029)
-- LinkedIn: [Anand Pathak](https://www.linkedin.com/in/anand-pathak-473611171/)
+- GitHub: [@githubhandle](https://github.com/Anand8317)
+- Twitter: [@twitterhandle](https://twitter.com/anand029))
+- LinkedIn: [LinkedIn](https://www.linkedin.com/in/anand-pathak-473611171/)
 
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
+<!-- FUTURE FEATURES -->
 
 ## 🔭 Future Features <a name="future-features"></a>
 
-Coming Soon
+- [ ] **[Coming Soon]**
+- [ ] **[Coming Soon]**
+- [ ] **[Coming Soon]**
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
+<!-- CONTRIBUTING -->
 
 ## 🤝 Contributing <a name="contributing"></a>
 
@@ -106,16 +149,26 @@ Feel free to check the [issues page](https://github.com/Anand8317/math-magicians
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
+<!-- SUPPORT -->
 
 ## ⭐️ Show your support <a name="support"></a>
 
-Give a ⭐️ if you like this project!
+If you like this project, please show your support by giving it a star.
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
+<!-- ACKNOWLEDGEMENTS -->
+
+## 🙏 Acknowledgments <a name="acknowledgements"></a>
+
+Coming Soon
+
+<p align="right">(<a href="#readme-top">back to top</a>)</p>
+
+<!-- LICENSE -->
 
 ## 📝 License <a name="license"></a>
 
-This project license is classified as MIT.
+This project is [MIT](./LICENSE) licensed.
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
