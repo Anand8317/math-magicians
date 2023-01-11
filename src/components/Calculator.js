@@ -33,7 +33,7 @@ export default class Calculator extends PureComponent {
           <button id="ac" type="button" onClick={this.handleClick}>AC</button>
           <button id="negative" type="button" onClick={this.handleClick}>+/-</button>
           <button id="modulus" type="button" onClick={this.handleClick}>%</button>
-          <button id="divide" className="col4" type="button" onClick={this.handleClick}>/</button>
+          <button id="divide" className="col4" type="button" onClick={this.handleClick}>÷</button>
         </div>
         <div className="row2">
           <button id="seven" type="button" onClick={this.handleClick}>7</button>
