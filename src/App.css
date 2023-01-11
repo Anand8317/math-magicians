@@ -17,6 +17,8 @@
 }
 
 #input {
+  box-sizing: border-box;
+  padding-top: 20px;
   text-align: right;
   height: 45px;
   background-color: #858693;
