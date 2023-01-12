@@ -133,9 +133,8 @@ You can deploy this project using:
 
 ## 🔭 Future Features <a name="future-features"></a>
 
-- [ ] **[Coming Soon]**
-- [ ] **[Coming Soon]**
-- [ ] **[Coming Soon]**
+- [ ] **Add a quote to the page based on the mathematics**
+- [ ] **Enhance user expeirence by making UI more fluid and reponsive**
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
