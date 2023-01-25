@@ -3,6 +3,7 @@ import { Link, Route, Routes } from 'react-router-dom';
 import Calculator from './components/Calculator';
 import Home from './components/Home';
 import Quote from './components/Quote';
+import './css/nav.css';
 
 export default function App() {
   return (

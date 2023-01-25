@@ -1,7 +1,5 @@
 #subroot {
   width: 40%;
-
-  /* margin: 125px auto; */
   text-align: center;
 }
 
@@ -46,39 +44,6 @@ button:hover {
   background-color: #f5923f;
 }
 
-nav {
-  display: flex;
-  justify-content: space-between;
-  align-items: center;
-  padding-left: 20px;
-}
-
-.nav-bar-h1 {
-  font-size: 34px;
-}
-
-.nav-link {
-  display: flex;
-  gap: 20px;
-  padding-right: 30px;
-  list-style-type: none;
-}
-
-.nav-link > li {
-  padding-right: 10px;
-  border-right: 2px solid #000;
-}
-
-.nav-link > li:last-child {
-  border: none;
-}
-
-.home {
-  padding-left: 20px;
-  padding-right: 20px;
-  margin-top: 50px;
-}
-
 .calculator {
   display: flex;
   padding-left: 20px;
@@ -86,15 +51,4 @@ nav {
   align-items: baseline;
   justify-content: space-between;
   margin-top: 50px;
-}
-
-.quote {
-  width: 80%;
-  margin: 0 auto;
-  text-align: center;
-  font-size: 24px;
-}
-
-h2 {
-  font-size: 32px;
 }
