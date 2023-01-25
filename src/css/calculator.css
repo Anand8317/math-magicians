@@ -1,6 +1,5 @@
 #subroot {
-  width: 30%;
-  margin: 125px auto;
+  width: 40%;
   text-align: center;
 }
 
@@ -43,4 +42,13 @@ button:hover {
 
 .col4 {
   background-color: #f5923f;
+}
+
+.calculator {
+  display: flex;
+  padding-left: 20px;
+  padding-right: 50px;
+  align-items: baseline;
+  justify-content: space-between;
+  margin-top: 50px;
 }
