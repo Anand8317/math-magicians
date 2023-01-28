@@ -49,7 +49,7 @@
 
 ## 🚀 Live Demo <a name="live-demo"></a>
 
-- [Coming Soon]()
+- [Live Link](https://math-magicians-aj17.onrender.com/)
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
