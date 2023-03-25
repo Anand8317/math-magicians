@@ -1,0 +1,26 @@
+nav {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  padding-left: 20px;
+}
+
+.nav-bar-h1 {
+  font-size: 34px;
+}
+
+.nav-link {
+  display: flex;
+  gap: 20px;
+  padding-right: 30px;
+  list-style-type: none;
+}
+
+.nav-link > li {
+  padding-right: 10px;
+  border-right: 2px solid #000;
+}
+
+.nav-link > li:last-child {
+  border: none;
+}
