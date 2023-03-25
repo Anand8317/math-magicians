@@ -1,10 +1,12 @@
-import React, { PureComponent } from 'react';
+import React from 'react';
 import Calculator from './components/Calculator';
+import Quotes from './components/Quotes';
 
-export default class App extends PureComponent {
-  render() {
-    return (
+export default function App() {
+  return (
+    <div>
+      <Quotes />
       <Calculator />
-    );
-  }
+    </div>
+  );
 }
